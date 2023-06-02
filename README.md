@@ -43,7 +43,7 @@ ease their work and gathered information.
 * Urban area has the highest casualty rate as compared to Rural area (255.9K).
 * The amount of casualties is greater in the light condition than in the dark condition (305.0K) .
 * Casualties is highest on Dry surface (279445).
-* Casualties in 2021 are higher than in 2022
+* Casualties in 2021 are higher than in 2022.
 
 
   
