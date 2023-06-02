@@ -4,14 +4,14 @@ The objective was to provide valuable insights to clients and shed light on acci
 
 # I worked on this project 
 * Data Collecting
-* Data cleaning & gathering 
+* Data Cleaning & Gathering 
 * Data Processing
 * Data Analysis & Visualization
 * Enhanced Functionality
 * Final Insights
 
 
-# Data cleaning & gathering 
+# Data Cleaning & Gathering 
 Collecting the Excel file and performed various activities such as applying filters, removing duplicates, fixing errors, and transforming 
 the data into an easily analyzable format.
 
